@@ -4,6 +4,10 @@
   "description": "calendar utilities for fearless datemongers",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creaturesinunitards/dalmatian.git"
+  },
   "author": "Scott Simpson <portrayme@mac.com>",
   "license": "MIT"
 }
