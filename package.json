@@ -1,0 +1,9 @@
+{
+  "name": "dalmatian",
+  "version": "0.0.1",
+  "description": "calendar utilities for fearless datemongers",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Scott Simpson <portrayme@mac.com>",
+  "license": "MIT"
+}
