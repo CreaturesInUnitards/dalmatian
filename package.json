@@ -1,6 +1,6 @@
 {
   "name": "dalmatian",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "calendar utilities for fearless datemongers",
   "main": "index.js",
   "scripts": {},
