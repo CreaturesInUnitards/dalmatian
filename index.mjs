@@ -1,5 +1,5 @@
-/* dalmatian/index.js */
-module.exports = (() => {
+/* dalmatian/index.mjs */
+export default (() => {
     const DAYS_IN_WEEK = 7
     const MONTHS_IN_YEAR = 12
 

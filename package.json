@@ -2,7 +2,7 @@
   "name": "dalmatian",
   "version": "0.0.4",
   "description": "calendar utilities for fearless datemongers",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {},
   "repository": {
     "type": "git",
